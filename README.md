@@ -1,79 +1,133 @@
 <div align="center">
 
-# 👋 Hi, I'm YOS
+<!-- Banner Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=YOS&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Indonesian%20Developer%20%7C%20Automation%20Enthusiast&descSize=20&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%"/>
 
-**Indonesian Developer | Automation Enthusiast**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+tools+that+solve+real+problems;Browser+Automation+%F0%9F%A4%96+%7C+AI+Agents+%F0%9F%A4%96+%7C+Web+Scraping;Self-taught+%7C+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</a>
 
-Building tools that solve real problems — from browser automation to AI agents.
+<br/>
+
+<!-- Visitor Counter & Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=yosyoss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/yosyoss?label=Followers&style=flat-square&color=blue" alt="Followers"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Self-taught developer based in Indonesia
-- 🔧 Love working with **Python**, **Java**, and emerging tech like **AI/LLMs**
-- 🤖 Interested in **browser automation**, **web scraping**, and **productivity tools**
-- 📚 Always learning, always building
+```yaml
+name: YOS
+location: 🇮🇩 Indonesia
+role: Self-taught Developer
+focus:
+  - Browser Automation
+  - AI / LLM Agents
+  - Web Scraping
+  - Productivity Tools
+languages: [Python, Java, JavaScript]
+currently_learning: [AI Agents, LLM Integrations, Advanced Automation]
+motto: "Always learning, always building"
+```
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/4683366/coding.gif">
+
+- 💻 Self-taught developer yang passionate dengan **automation**
+- 🔧 Fokus di **Python**, **Java**, dan teknologi AI/LLM
+- 🤖 Suka bikin tools yang bikin hidup lebih mudah
+- 📚 Belajar setiap hari, bikin sesuatu setiap minggu
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 **Tools & Frameworks**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
----
-
-## 🔥 Featured Projects
-
-### 🛒 [Shopee-Flashsale-BOT](https://github.com/yosyoss/Shopee-Flashsale-BOT)
-> Selenium-based bot untuk auto-beli flash sale Shopee Indonesia. Built with Python + Chrome DevTools Protocol, features visible browser, auto-buy, auto-checkout, and manual GO trigger untuk akurasi milidetik.
-
-`Python` • `Selenium` • `Browser Automation` • `Chrome DevTools Protocol`
-
-[⭐ Star](https://github.com/yosyoss/Shopee-Flashsale-BOT) • [🍴 Fork](https://github.com/yosyoss/Shopee-Flashsale-BOT/fork)
-
-### 🤖 [AI-Agent](https://github.com/yosyoss/AI-Agent)
-> New AI agent repo — eksplorasi LLM-based automation.
-
-`AI` • `LLM` • `Agent`
-
-[⭐ Star](https://github.com/yosyoss/AI-Agent)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosyoss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosyoss&theme=tokyonight&layout=compact&hide_border=true)
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</p>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yosyoss)
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosyoss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosyoss&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=yosyoss&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=yosyoss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
+## 📈 Activity Graph
+
 <div align="center">
 
-⭐️ From [yosyoss](https://github.com/yosyoss) — Happy coding! 🚀
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yosyoss&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/yosyoss">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/yosyoss?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+</a>
+
+</div>
+
+---
+
+<!-- Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&repeat=true&width=300&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks"/>
+
+⭐️ From **[yosyoss](https://github.com/yosyoss)** — Happy coding! 🚀
 
 </div>

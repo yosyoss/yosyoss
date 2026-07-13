@@ -1,9 +1,3 @@
-<!--
-  yosyoss profile README
-  Save this as: yosyoss/yosyoss/README.md (in a repo with the same name as your username)
-  Will be displayed at the top of your GitHub profile page.
--->
-
 <div align="center">
 
 # 👋 Hi, I'm YOS

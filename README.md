@@ -30,7 +30,7 @@ focus:
   - AI / LLM Agents
   - Web Scraping
   - Productivity Tools
-languages: [Python, Java, JavaScript]
+languages: [Go, Python, Java, JavaScript]
 currently_learning: [AI Agents, LLM Integrations, Advanced Automation]
 motto: "Always learning, always building"
 ```
@@ -38,7 +38,7 @@ motto: "Always learning, always building"
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/4683366/coding.gif">
 
 - 💻 Self-taught developer yang passionate dengan **automation**
-- 🔧 Fokus di **Python**, **Java**, dan teknologi AI/LLM
+- 🔧 Fokus di **Go**, **Python**, **Java**, dan teknologi AI/LLM
 - 🤖 Suka bikin tools yang bikin hidup lebih mudah
 - 📚 Belajar setiap hari, bikin sesuatu setiap minggu
 
@@ -72,26 +72,6 @@ motto: "Always learning, always building"
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosyoss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosyoss&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=yosyoss&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-trophies.vercel.app/?username=yosyoss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
 ---
 
 ## 📈 Activity Graph
@@ -110,6 +90,12 @@ motto: "Always learning, always building"
 
 <a href="https://github.com/yosyoss">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://yos-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 &nbsp;&nbsp;

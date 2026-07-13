@@ -83,12 +83,12 @@ motto: "Always learning, always building"
 <br/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=yosyoss&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=yosyoss&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yosyoss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=yosyoss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
